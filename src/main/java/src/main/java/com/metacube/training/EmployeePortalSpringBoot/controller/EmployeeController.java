@@ -1,4 +1,4 @@
-package com.metacube.training.EmployeePortalSpringBoot.controller;
+package src.main.java.com.metacube.training.EmployeePortalSpringBoot.controller;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
